@@ -1,0 +1,21 @@
+.nav-logo {
+  height: 50px;
+  width: 150px;
+}
+.sidebar-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.home-sidebar {
+  background-color: black;
+}
+.profile-icons {
+  position: absolute;
+  top: 20px;
+  right: 40px;
+}
+.profile-icon {
+  height: 27px;
+  width: 27px;
+}

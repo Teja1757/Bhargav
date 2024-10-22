@@ -1,0 +1,16 @@
+.login {
+  background-image: url("./images/bg-img.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 5px;
+}
+.login-title {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bolder;
+}
+.login-subtitle {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
